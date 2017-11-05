@@ -1,6 +1,6 @@
-def current_age_for_birth_year(year_of_birth)
- puts "Your current age is #{2017-year_of_birth}"
+def current_age_for_birth_year(1984)
+ puts "Your current age is #{2017 - current_age_for_birth_year}."
 end
 
- 
+
     
