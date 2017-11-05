@@ -1,3 +1,4 @@
-def age_of_person(current_age_for_birth_year)
- return "The age of a person based on birth is #{2017 - current_age_for_birth_year}."
+def ageOfPerson = CurrentAgeForBirthYear(yearOfBirth)
+yearOfBirth = 1984
+ return "The age of a person  is #{2017 - yearOfBirth}."
 end
